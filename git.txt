@@ -1,0 +1,9 @@
+We can push out our project in two way:
+---------------------------------------
+1st => By connecting HTTPS 
+2nd => By using SSH Key 
+
+=> Open git bash
+=> Type: ssh-keygen -o
+=> Locate location 
+=> Login with github and go setting got ssh and paste that ssh key
